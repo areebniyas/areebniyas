@@ -3,6 +3,7 @@
 <p>A passionate software engineer with experience in research and development of software. Proven ability to optimize backend systems for performance, implement RESTful APIs, and work effectively within agile teams. I have a great aspiration to enhance my knowledge and contribute my research in the field of computer science. I consider logical thinking and the ability to critically analyze and solve problems are some of my core strengths.</p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
+- 🌱 I’m currently learning **MERN Stack**
 - 📫 How to reach me **areebniyas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
