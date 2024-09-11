@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Areeb Niyas</h1>
-<h3 align="center">A passionate software engineer</h3>
-<p>A passionate software engineer with experience in research and development of software. Proven ability to optimize backend systems for performance, implement RESTful APIs, and work effectively within agile teams. I have a great aspiration to enhance my knowledge and contribute in the field of product engineering which is to build empathetic solutions to real world problems with attention to detail.</p>
+<h3 align="center">Passionate about all things tech and football.</h3>
+<p>A software engineer with experience in research and development of software. Proven ability to optimize backend systems for performance, implement RESTful APIs, and work effectively within agile teams. I have a great aspiration to enhance my knowledge and contribute in the field of product engineering. The aim is to build empathetic solutions for real world problems with attention to detail.</p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
 - 🌱 I’m currently learning **MERN Stack**
